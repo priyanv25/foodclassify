@@ -6,3 +6,4 @@ Food20 classification using deeplearning
 - The dataset contains 20 classes of food images.
 - The model has been trained on GPU and requires a tensorflow environment.
 - The UI was developed using Streamlit.
+- The model acheived 92% accuracy.
